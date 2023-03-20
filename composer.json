@@ -5,11 +5,16 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "BubbaOps\\HoalifePhp\\": "src/"
+            "BubbaOps\\HoalifePhp\\": "src"
         },
       "files": [
         "src/helpers.php"
       ]
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "BubbaOps\\HoalifePhp\\Tests\\": "tests"
+      }
     },
     "authors": [
         {
