@@ -1,4 +1,4 @@
-name: run-tests
+name: Pest unit testing.
 
 on:
   push:
