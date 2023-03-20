@@ -2,7 +2,7 @@
 ngrok
 coverage
 .phpunit*
-phpunit.xml
+phpunit.xml.dist
 phpstan.neon
 node_modules
 composer.lock
