@@ -1,5 +1,5 @@
 {
-    "name": "stechstudio/hoalife-php",
+    "name": "bubbaops/hoalife-php",
     "description": "PHP API Client for the HOALife API",
     "type": "library",
     "license": "MIT",
